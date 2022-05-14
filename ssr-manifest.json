@@ -1,0 +1,140 @@
+{
+  "vite/modulepreload-polyfill": [
+    "/assets/pic3.4a81efb5.jpeg",
+    "/assets/SEWANow.4a6e3d2a.png",
+    "/assets/OpenPetro.af659e94.png",
+    "/assets/MYBengkel.fcdac1de.png"
+  ],
+  "node_modules/.pnpm/@vue+shared@3.2.33/node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "/assets/pic3.4a81efb5.jpeg",
+    "/assets/SEWANow.4a6e3d2a.png",
+    "/assets/OpenPetro.af659e94.png",
+    "/assets/MYBengkel.fcdac1de.png"
+  ],
+  "node_modules/.pnpm/@vue+reactivity@3.2.33/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "/assets/pic3.4a81efb5.jpeg",
+    "/assets/SEWANow.4a6e3d2a.png",
+    "/assets/OpenPetro.af659e94.png",
+    "/assets/MYBengkel.fcdac1de.png"
+  ],
+  "node_modules/.pnpm/@vue+runtime-core@3.2.33/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "/assets/pic3.4a81efb5.jpeg",
+    "/assets/SEWANow.4a6e3d2a.png",
+    "/assets/OpenPetro.af659e94.png",
+    "/assets/MYBengkel.fcdac1de.png"
+  ],
+  "node_modules/.pnpm/@vue+runtime-dom@3.2.33/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "/assets/pic3.4a81efb5.jpeg",
+    "/assets/SEWANow.4a6e3d2a.png",
+    "/assets/OpenPetro.af659e94.png",
+    "/assets/MYBengkel.fcdac1de.png"
+  ],
+  "node_modules/.pnpm/vue-router@4.0.15_vue@3.2.33/node_modules/vue-router/dist/vue-router.esm-bundler.js": [
+    "/assets/pic3.4a81efb5.jpeg",
+    "/assets/SEWANow.4a6e3d2a.png",
+    "/assets/OpenPetro.af659e94.png",
+    "/assets/MYBengkel.fcdac1de.png"
+  ],
+  "node_modules/.pnpm/@vueuse+head@0.7.6_vue@3.2.33/node_modules/@vueuse/head/dist/index.mjs": [
+    "/assets/pic3.4a81efb5.jpeg",
+    "/assets/SEWANow.4a6e3d2a.png",
+    "/assets/OpenPetro.af659e94.png",
+    "/assets/MYBengkel.fcdac1de.png"
+  ],
+  "node_modules/.pnpm/vite-ssg@0.20.0_17a4ef64d1962c510a3852fcd649c92f/node_modules/vite-ssg/dist/chunks/state.mjs": [
+    "/assets/pic3.4a81efb5.jpeg",
+    "/assets/SEWANow.4a6e3d2a.png",
+    "/assets/OpenPetro.af659e94.png",
+    "/assets/MYBengkel.fcdac1de.png"
+  ],
+  "node_modules/.pnpm/vite-ssg@0.20.0_17a4ef64d1962c510a3852fcd649c92f/node_modules/vite-ssg/dist/chunks/ClientOnly.mjs": [
+    "/assets/pic3.4a81efb5.jpeg",
+    "/assets/SEWANow.4a6e3d2a.png",
+    "/assets/OpenPetro.af659e94.png",
+    "/assets/MYBengkel.fcdac1de.png"
+  ],
+  "node_modules/.pnpm/vite-ssg@0.20.0_17a4ef64d1962c510a3852fcd649c92f/node_modules/vite-ssg/dist/index.mjs": [
+    "/assets/pic3.4a81efb5.jpeg",
+    "/assets/SEWANow.4a6e3d2a.png",
+    "/assets/OpenPetro.af659e94.png",
+    "/assets/MYBengkel.fcdac1de.png"
+  ],
+  "src/assets/pic3.jpeg": [
+    "/assets/pic3.4a81efb5.jpeg",
+    "/assets/SEWANow.4a6e3d2a.png",
+    "/assets/OpenPetro.af659e94.png",
+    "/assets/MYBengkel.fcdac1de.png"
+  ],
+  "src/assets/SEWANow.png": [
+    "/assets/pic3.4a81efb5.jpeg",
+    "/assets/SEWANow.4a6e3d2a.png",
+    "/assets/OpenPetro.af659e94.png",
+    "/assets/MYBengkel.fcdac1de.png"
+  ],
+  "src/assets/OpenPetro.png": [
+    "/assets/pic3.4a81efb5.jpeg",
+    "/assets/SEWANow.4a6e3d2a.png",
+    "/assets/OpenPetro.af659e94.png",
+    "/assets/MYBengkel.fcdac1de.png"
+  ],
+  "src/assets/MYBengkel.png": [
+    "/assets/pic3.4a81efb5.jpeg",
+    "/assets/SEWANow.4a6e3d2a.png",
+    "/assets/OpenPetro.af659e94.png",
+    "/assets/MYBengkel.fcdac1de.png"
+  ],
+  "plugin-vue:export-helper": [
+    "/assets/pic3.4a81efb5.jpeg",
+    "/assets/SEWANow.4a6e3d2a.png",
+    "/assets/OpenPetro.af659e94.png",
+    "/assets/MYBengkel.fcdac1de.png"
+  ],
+  "src/pages/index.vue": [
+    "/assets/pic3.4a81efb5.jpeg",
+    "/assets/SEWANow.4a6e3d2a.png",
+    "/assets/OpenPetro.af659e94.png",
+    "/assets/MYBengkel.fcdac1de.png"
+  ],
+  "../../../../../@vite-plugin-pages/generated-pages?id=virtual:generated-pages": [
+    "/assets/pic3.4a81efb5.jpeg",
+    "/assets/SEWANow.4a6e3d2a.png",
+    "/assets/OpenPetro.af659e94.png",
+    "/assets/MYBengkel.fcdac1de.png"
+  ],
+  "src/layouts/default.vue": [
+    "/assets/pic3.4a81efb5.jpeg",
+    "/assets/SEWANow.4a6e3d2a.png",
+    "/assets/OpenPetro.af659e94.png",
+    "/assets/MYBengkel.fcdac1de.png"
+  ],
+  "../../../../../@vite-plugin-vue-layouts/generated-layouts": [
+    "/assets/pic3.4a81efb5.jpeg",
+    "/assets/SEWANow.4a6e3d2a.png",
+    "/assets/OpenPetro.af659e94.png",
+    "/assets/MYBengkel.fcdac1de.png"
+  ],
+  "src/App.vue": [
+    "/assets/pic3.4a81efb5.jpeg",
+    "/assets/SEWANow.4a6e3d2a.png",
+    "/assets/OpenPetro.af659e94.png",
+    "/assets/MYBengkel.fcdac1de.png"
+  ],
+  "src/index.css": [
+    "/assets/pic3.4a81efb5.jpeg",
+    "/assets/SEWANow.4a6e3d2a.png",
+    "/assets/OpenPetro.af659e94.png",
+    "/assets/MYBengkel.fcdac1de.png"
+  ],
+  "src/main.js": [
+    "/assets/pic3.4a81efb5.jpeg",
+    "/assets/SEWANow.4a6e3d2a.png",
+    "/assets/OpenPetro.af659e94.png",
+    "/assets/MYBengkel.fcdac1de.png"
+  ],
+  "index.html": [
+    "/assets/pic3.4a81efb5.jpeg",
+    "/assets/SEWANow.4a6e3d2a.png",
+    "/assets/OpenPetro.af659e94.png",
+    "/assets/MYBengkel.fcdac1de.png"
+  ]
+}
